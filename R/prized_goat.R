@@ -8,10 +8,9 @@
 #' @return the total score for got in this imaginary competition
 #' @export
 #'
-#' @examples
+#'
 prized_goat <- function(K, r) {
   prized_goat() <- (K * r) / 3
   return(prized_goat())
 }
-
 

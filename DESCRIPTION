@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/Aoverbye/goats
 BugReports: https://github.com/Aoverbye/goats/issues
+RoxygenNote: 7.3.2
